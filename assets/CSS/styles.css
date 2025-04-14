@@ -1,0 +1,112 @@
+:root {
+    --bs-indigo-dark: #3e0a91;
+    --bs-indigo-light: #ddcdf6;
+}
+.nav-link:hover {
+    color: var(--bs-indigo) !important;
+}
+
+.btn:focus, .btn:active, .btn:focus-visible {
+    border:none;
+    box-shadow: none;
+}
+.btn-outline-primary {
+    color: var(--bs-indigo);
+    border-color: var(--bs-indigo);
+}
+
+.btn-outline-primary:hover {
+    background-color: var(--bs-indigo);
+    border-color: var(--bs-indigo);
+}
+
+.text-primary {
+    color: var(--bs-indigo) !important;
+}
+
+.btn-primary {
+    background-color: var(--bs-indigo);
+    border-color: var(--bs-indigo);
+}
+
+.btn-primary:hover {
+    background-color: var(--bs-indigo-dark);
+    border-color: var(--bs-indigo-dark);
+}
+
+.hero .row{
+    height: calc(100vh - 56px);
+}
+
+.nav-pills {
+    background-color: var(--bs-gray-400);
+    border-color: var(--bs-gray-500);
+}
+
+.nav-link {
+    color: var(--bs-dark);
+}
+
+.nav-link.active {
+    background-color: var(--bs-indigo) !important;
+    border-color: var(--bs-indigo);
+}
+
+.nav-link.active:hover {
+    color: white !important;
+}
+
+.progress-bar{
+    background-color: var(--bs-indigo);
+}
+
+.timeline {
+    position: relative;
+    padding: 20px 0;
+    margin-left: 20px;
+}
+
+
+.timeline-item {
+    position: relative;
+    padding-left: 22px;
+    margin-bottom: 40px;
+}
+
+.timeline-dot {
+    position: absolute;
+    left: 15px;
+    top: 0;
+    width: 17px;
+    height: 17px;
+    background-color: var(--bs-indigo);
+    border-radius: 50%;
+}
+
+.timeline-content {
+    padding: 0 30px;
+    border-left: 2px solid var(--bs-indigo);
+}
+
+.timeline-content h4 {
+    color: var(--bs-indigo);
+    margin-bottom: 10px;
+}
+
+.timeline-content h5 {
+    margin-bottom: 5px;
+}
+
+.timeline-content p {
+    color: #6c757d;
+    margin-bottom: 0;
+}
+
+.bg-primary-light {
+    background-color: var(--bs-indigo-light);
+}
+
+section#portfolio .card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
