@@ -6,6 +6,9 @@ Este repositorio contiene el desarrollo de mi sitio web personal, donde comparto
 
 ## 🤝 Colaboraciones (Forks)
 •⁠  ⁠🔁 *Portafolio Matitiz*: Corrección de faltas de ortografía y ajustes en el tamaño de imágenes.
-🔗 [Visita el link] (https://github.com/Katherin1605/fork-matitiz)
+🔗 [Visita el link](https://github.com/Katherin1605/fork-matitiz)
+
+•⁠  ⁠🔁 *Portafolio Alonsomujicas*: Mejoras en uso de colores, separación de secciones, espaciados e incorporación de íconos.
+🔗 [Visita el link](https://github.com/Katherin1605/fork-alfonso)
 
 📫 kt16.kh@gmail.com | 📍 Santiago, Chile
